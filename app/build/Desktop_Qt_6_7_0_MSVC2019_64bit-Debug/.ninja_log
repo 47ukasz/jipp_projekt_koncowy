@@ -1,0 +1,9 @@
+# ninja log v5
+9	404	7382943157164030	app_autogen/timestamp	74a9b41afa43069e
+9	404	7382943157164030	app_autogen/mocs_compilation.cpp	74a9b41afa43069e
+9	404	7382943157164030	D:/project/app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/app_autogen/timestamp	74a9b41afa43069e
+9	404	7382943157164030	D:/project/app/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/app_autogen/mocs_compilation.cpp	74a9b41afa43069e
+405	1947	7382943173124012	CMakeFiles/app.dir/app_autogen/mocs_compilation.cpp.obj	1d5204f7f83ed9ec
+408	1959	7382943173254016	CMakeFiles/app.dir/main.cpp.obj	bbec1c7a232f55f8
+411	1981	7382943173464126	CMakeFiles/app.dir/App.cpp.obj	fc55d8a7e3fc1f50
+1981	2387	7382943177209922	app.exe	5aa4dd7362a0e596

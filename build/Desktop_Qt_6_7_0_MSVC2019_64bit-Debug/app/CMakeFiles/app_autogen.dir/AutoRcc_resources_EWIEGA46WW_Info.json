@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "D:/project/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/app/app_autogen",
+	"CMAKE_BINARY_DIR" : "D:/project/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/project/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/app",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/project/app",
+	"CMAKE_SOURCE_DIR" : "D:/project",
+	"INCLUDE_DIR" : "D:/project/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/app/app_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/project/app/icons/app_logo.png",
+		"D:/project/app/icons/exclamation.png",
+		"D:/project/app/icons/search.png",
+		"D:/project/app/icons/heart.png",
+		"D:/project/app/icons/heart_empty.png",
+		"D:/project/app/icons/angle-small-down.png",
+		"D:/project/app/icons/download.png",
+		"D:/project/app/icons/close.png"
+	],
+	"LOCK_FILE" : "D:/project/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/app/CMakeFiles/app_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.0/msvc2019_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/project/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/app/CMakeFiles/app_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/project/app/resources.qrc",
+	"VERBOSITY" : 0
+}

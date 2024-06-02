@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/heart.png</file>
+        <file>icons/heart_empty.png</file>
+        <file>icons/search.png</file>
+        <file>icons/download.png</file>
+        <file>icons/angle-small-down.png</file>
+        <file>icons/app_logo.png</file>
+        <file>icons/close.png</file>
+        <file>icons/exclamation.png</file>
+    </qresource>
+</RCC>
